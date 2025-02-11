@@ -2,7 +2,7 @@
   title={InSTA: Towards Internet-Scale Training For Agents},
   author={Brandon Trabucco and Gunnar Sigurdsson and Robinson Piramuthu and Ruslan Salakhutdinov},
   year={2025},
-  eprint={todo},
+  eprint={2502.06776},
   archivePrefix={arXiv},
   primaryClass={cs.LG},
 }
