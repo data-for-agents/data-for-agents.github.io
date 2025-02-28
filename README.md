@@ -8,7 +8,7 @@ The predominant approach for training web navigation agents gathers human demons
 
 The following links are NOT ANONYMOUS.
 
-[website](https://data-for-agents.github.io)    |    [paper](https://data-for-agents.github.io)    |    [code](https://github.com/data-for-agents/insta)
+[website](https://data-for-agents.github.io)    |    [paper](https://arxiv.org/abs/2502.06776)    |    [code](https://github.com/data-for-agents/insta)
 
 ## Section 4 - Internet-Scale Task Generation
 
